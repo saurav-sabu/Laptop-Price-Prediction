@@ -1,3 +1,3 @@
 # Laptop-Price-Prediction
 
-Link to WebApp:- https://laptop-price-prediction-ml.herokuapp.com/
+Link to WebApp:- https://huggingface.co/spaces/saurav-sabu/Laptop-Price-Prediction
